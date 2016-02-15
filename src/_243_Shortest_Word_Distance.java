@@ -1,4 +1,4 @@
-package shared;
+
 
 public class _243_Shortest_Word_Distance {
 	/*
