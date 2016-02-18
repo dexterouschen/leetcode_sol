@@ -1,5 +1,5 @@
 
-public class _70_Climbing_Stairs {
+public class _070_Climbing_Stairs {
 	/*
 	 * You are climbing a stair case. It takes n steps to reach to the top.
 	 *

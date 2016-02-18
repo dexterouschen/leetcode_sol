@@ -1,6 +1,6 @@
 import shared.ListNode;
 
-public class _21_Merge_Two_Sorted_Lists {
+public class _021_Merge_Two_Sorted_Lists {
 
 	/*
 	 * Merge two sorted linked lists and return it as a new list. The new list

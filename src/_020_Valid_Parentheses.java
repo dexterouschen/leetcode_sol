@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class _20_Valid_Parentheses {
+public class _020_Valid_Parentheses {
 	/*
 	 * Given a string containing just the characters '(', ')', '{', '}', '[' and
 	 * ']', determine if the input string is valid.

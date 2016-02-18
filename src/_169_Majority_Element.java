@@ -1,5 +1,3 @@
-import java.util.Hashtable;
-
 public class _169_Majority_Element {
 	/*
 	 * Given an array of size n, find the majority element. The majority element
